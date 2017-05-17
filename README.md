@@ -1,2 +1,1 @@
-# myMine
-aaa
+#mine
